@@ -1,1 +1,0 @@
-{"version":3,"file":"MiniDuckSimulator.js","sourceRoot":"","sources":["../SimUDuck/MiniDuckSimulator.ts"],"names":[],"mappings":";;AAAA,+CAA4C;AAG5C,MAAM,iBAAiB;IACnB,MAAM,CAAC,IAAI;QACP,MAAM,OAAO,GAAS,IAAI,yBAAW,EAAE,CAAC;QACxC,OAAO,CAAC,YAAY,EAAE,CAAC;QACvB,OAAO,CAAC,UAAU,EAAE,CAAC;IACzB,CAAC;CACJ;AAED,iBAAiB,CAAC,IAAI,EAAE,CAAC"}
